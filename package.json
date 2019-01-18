@@ -1,0 +1,31 @@
+{
+  "name": "Hellraiser2",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "inferno-scripts": "5.0.0"
+  },
+  "dependencies": {
+    "babel-plugin-inferno": "^3.3.0",
+    "bootstrap": "^3.3.7",
+    "canvas": "^1.6.7",
+    "immutability-helper": "^2.6.0",
+    "inferno": "^3.10.1",
+    "inferno-component": "^3.10.1",
+    "inferno-router": "^3.10.1",
+    "inferno-scripts": "^5.0.0",
+    "is-empty": "^1.2.0",
+    "jquery": "^3.2.1",
+    "jsondiffpatch": "^0.2.5",
+    "lodash": "^4.17.4",
+    "mathjs": "^3.17.0",
+    "react-bootstrap": "^0.31.5",
+    "resemblejs": "^2.5.0"
+  },
+  "scripts": {
+    "start": "inferno-scripts start",
+    "build": "inferno-scripts build",
+    "test": "inferno-scripts test --env=jsdom",
+    "eject": "inferno-scripts eject"
+  }
+}
